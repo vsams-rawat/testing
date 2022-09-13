@@ -1,5 +1,5 @@
 function demo(){
     console.log('Hiiiiii');
-    console.log('Hellooo');
+    console.log('Hello');
 }
 demo();
